@@ -1,4 +1,5 @@
 # Webpack5
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+[Project](https://batninedr.github.io/ahj-env/)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/mmgnn51t98oro1td/branch/master?svg=true)](https://ci.appveyor.com/project/Dzuba110729/ahj-envv)
